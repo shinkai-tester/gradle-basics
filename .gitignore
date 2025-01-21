@@ -1,0 +1,15 @@
+# Ignoring Gradle and build directories
+.gradle/
+**/build/
+
+# IntelliJ IDEA-specific files
+.idea/
+*.iml
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# System-specific files
+.DS_Store
+Thumbs.db

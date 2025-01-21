@@ -1,0 +1,7 @@
+Assemble, build, check - lifecycle tasks, which means
+they don't have any actions implemented.
+They're actually of type DefaultTask.
+
+':assemble' does the compilation and packaging of code.
+
+':check' runs tests and code quality checks.
